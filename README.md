@@ -17,18 +17,112 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `COUNTYFP`: County FIPS code
 * `Precinct`: Precinct name
 * `CODE`: Precinct code
-
-*	`PRES16D`: Number of votes for 2016 Democratic presidential candidate, with absentee votes
-*	`PRES16R`: Number of votes for 2016 Republican presidential candidate, with absentee votes
-*	`USH16D`: Number of votes for 2016 Democratic US House candidate, with absentee votes
-*	`USH16R`: Number of votes for 2016 Republican US House candidate, with absentee votes
-*	`SEN18D`: Number of votes for 2018 Democratic senate candidate, with absentee votes
-*	`SEN18R`: Number of votes for 2018 Republican senate candidate, with absentee votes
-*	`SEN18I`: Number of votes for 2018 Independent senate candidate, with absentee votes
-*	`USH18D`: Number of votes for 2018 Democratic US House candidate, with absentee votes
-*	`USH18R`: Number of votes for 2018 Republican US House candidate, with absentee votes
-* `
-* TOTPOP`: Total population from 2010 Decennial Census
+* `PRES16D`: votes for 2016 US President democratic candidate in the 2016 general election
+* `PRES16R`: votes for 2016 US President republican candidate in the 2016 general election
+* `SEN16pD1`: votes for democratic candidate Foster Campbell in 2016 US Senate jungle primary
+* `SEN16pD2`: votes for democratic candidate Derrick Edwards in 2016 US Senate jungle primary
+* `SEN16pD3`: votes for democratic candidate Caroline Fayard in 2016 US Senate jungle primary
+* `SEN16pD4`:  votes for democratic candidate Gary Landrieu in 2016 US Senate jungle primary
+* `SEN16pD5`:  votes for democratic candidate Vinny Mendoza in 2016 US Senate jungle primary
+* `SEN16pD6`:  votes for democratic candidate Josh Pellerin in 2016 US Senate jungle primary
+* `SEN16pD7`:  votes for democratic candidate Peter Williams in 2016 US Senate jungle primary
+* `SEN16pU1`: votes for unaffiliated candidate Beryl Billot in 2016 US Senate jungle primary
+* `SEN16pU2`: votes for unaffiliated candidate Troy Herbert in 2016 US Senate jungle primary
+* `SEN16pU3`: votes for unaffiliated candidate William Robert Lang Jr. in 2016 US Senate jungle primary
+* `SEN16pR1`: votes for independent candidate Kaitlin Marone in 2016 US Senate jungle primary
+* `SEN16pU4`: votes for unaffiliated candidate Gregory Taylor Jr. in 2016 US Senate jungle primary
+* `SEN16pU5`: votes for unaffiliated candidate Arden Wells in 2016 US Senate jungle primary
+* `SEN16pL1`: votes for libertarian candidate Thomas Clements in 2016 US Senate jungle primary
+* `SEN16pL2`: votes for libertarian candidate Le Roy Gillam in 2016 US Senate jungle primary
+* `SEN16pR2`:  votes for republican candidate Charles Boustany Jr. in 2016 US Senate jungle primary
+* `SEN16pR3`:  votes for republican candidate Joseph Cao in 2016 US Senate jungle primary
+* `SEN16pR4`:  votes for republican candidate Donald Crawford in 2016 US Senate jungle primary
+* `SEN16pR5`:  votes for republican candidate David Duke in 2016 US Senate jungle primary
+* `SEN16pR6`:  votes for republican candidate John Fleming in 2016 US Senate jungle primary
+* `SEN16pR7`:  votes for republican candidate John Kennedy in 2016 US Senate jungle primary
+* `SEN16pR8`:  votes for republican candidate Rob Maness in 2016 US Senate jungle primary
+* `SEN16pR9`:  votes for republican candidate Charles Marsala in 2016 US Senate jungle primary
+* `SEN16pR10`:  votes for republican candidate Abhay Patel in 2016 US Senate jungle primary
+* `SEN16roD`: votes for US Senate democratic candidate Foster Campbell in the 2016 run-off election
+* `SEN16roR`: votes for US Senate republican candidate John Kennedy in the 2016 run-off election
+* `SOS18pD1`: votes for democratic candidate Gwen Collins-Greenup  in the 2018 Secretary of State jungle primary
+* `SOS18pD2`: votes for democratic candidate Renee Fontenot Free in the 2018 Secretary of State jungle primary
+* `SOS18pI`:  votes for independent candidate Matthew Moreau in the 2018 Secretary of State jungle primary
+* `SOS18pR1`: votes for republican candidate Kyle Ardoin in the 2018 Secretary of State jungle primary
+* `SOS18pR2`: votes for republican candidate Heather Cloud in the 2018 Secretary of State jungle primary
+* `SOS18pR3`: votes for republican candidate A.G. Crowe in the 2018 Secretary of State jungle primary
+* `SOS18pR4`: votes for republican candidate Rick Edmonds in the 2018 Secretary of State jungle primary
+* `SOS18pR5`: votes for republican candidate Thomas Kennedy III in the 2018 Secretary of State jungle primary
+* `SOS18pR6`: votes for republican candidate Julie Stokes in the 2018 Secretary of State jungle primary
+* `SOS18D`:  votes for Secretary of State democratic candidate Gwen Collins-Greenup in the 2018 special general election
+* `SOS18R`:  votes for Secretary of State republican candidate Kyle Ardoin in the 2018 special general election
+* `USH16pD1`: votes for US House District 2 democratic candidate Kenneth Cutno in the 2016 jungle primary
+* `USH16pD2`: votes for US House District 1 democratic candidate Lee Ann Dugas in the 2016 jungle primary
+* `USH16pD3`: votes for US House District 1 democratic candidate Danil Ezekiel Faust in the 2016 jungle primary
+* `USH16pD4`:  votes for US House District 2 democratic candidate Kip Holden in the 2016 jungle primary
+* `USH16pD5`:  votes for US House District 4 democratic candidate Marshall Jones in the 2016 jungle primary
+* `USH16pD6`:  votes for US House District 6 democratic candidate Richard Lieberman in the 2016 jungle primary
+* `USH16pD7`:  votes for US House District 3 democratic candidate Jacob "Dorian Phibian" Hebert in the 2016 jungle primary
+* `USH16pD8`:  votes for US House District 3 democratic candidate Larry Rader in the 2016 jungle primary
+* `USH16pD9`:  votes for US House District 2 democratic candidate Cedric Richmond in the 2016 jungle primary
+* `USH16pD10`:  votes for US House District 6 democratic candidate Jermaine Sampson in the 2016 jungle primary
+* `USH16pD11`:  votes for US House District 1 democratic candidate Joe Swider in the 2016 jungle primary
+* `USH16pG1`:  votes for US House District 1 green party candidate Eliot Barron in the 2016 jungle primary
+* `USH16pU1`: votes for US House District 6 unaffiliated candidate Devin Lance Graham in the 2016 jungle primary
+* `USH16pU2`: votes for US House District 4 unaffiliated candidate Mark Halverson in the 2016 jungle primary
+* `USH16pU3`: votes for US House District 4 unaffiliated candidate Kenneth Krefft in the 2016 jungle primary
+* `USH16pU4`: votes for US House District 3 unaffiliated candidate Kenny Scelfo in the 2016 jungle primary
+* `USH16pU5`: votes for US House District 1 unaffiliated candidate Chuemai Yang in the 2016 jungle primary
+* `USH16pL1`:  votes for US House District 6 libertarian candidate Richard Fontanesi in the 2016 jungle primary
+* `USH16pL2`:  votes for US House District 1 libertarian candidate Howard Kearney in the 2016 jungle primary
+* `USH16pL3`:  votes for US House District 3 libertarian candidate Guy McLendon in the 2016 jungle primary
+* `USH16pR1`:  votes for US House District 5 republican candidate Ralph Abraham in the 2016 jungle primary
+* `USH16pR2`:  votes for US House District 3 republican candidate Scott Angelle in the 2016 jungle primary
+* `USH16pR3`:  votes for US House District 3 republican candidate Bryan Barrilleaux in the 2016 jungle primary
+* `USH16pR4`:  votes for US House District 4 republican candidate Trey Baucum in the 2016 jungle primary
+* `USH16pR5`:  votes for US House District 6 republican candidate Robert Lamar Bell in the 2016 jungle primary
+* `USH16pR6`:  votes for US House District 5 republican candidate Billy Burkette in the 2016 jungle primary
+* `USH16pR7`:  votes for US House District 3 republican candidate Greg Ellison in the 2016 jungle primary
+* `USH16pR8`:  votes for US House District 3 republican candidate Brett Geymann in the 2016 jungle primary
+* `USH16pR9`:  votes for US House District 6 republican candidate  Garret Graves in the 2016 jungle primary
+* `USH16pR10`:  votes for US House District 4 republican candidate Elbert Guillory in the 2016 jungle primary
+* `USH16pR11`:  votes for US House District 3 republican candidate Clay Higgins in the 2016 jungle primary
+* `USH16pR12`:  votes for US House District 4 republican candidate Oliver Jenkins in the 2016 jungle primary
+* `USH16pR13`:  votes for US House District 4 republican candidate Mike Johnson in the 2016 jungle primary
+* `USH16pR14`:  votes for US House District 3 republican candidate Gus Rantz in the 2016 jungle primary
+* `USH16pR15`:  votes for US House District 3 republican candidate Grover Rees in the 2016 jungle primary
+* `USH16pR16`:  votes for US House District 4 republican candidate Rick John in the 2016 jungle primary
+* `USH16pR17`:  votes for US House District 1 republican candidate Steve Scalise  in the 2016 jungle primary
+* `USH16pR18`:  votes for US House District 3 republican candidate Herman Vidrine in the 2016 jungle primary
+* `USH18pD1`: votes for US House District 3 democratic candidate Rob Anderson in the 2018 jungle primary
+* `USH18pD2`: votes for US House District 5 democratic candidate Jessee Carlton Fleenor in the 2018 jungle primary
+* `USH18pD3`: votes for US House District 6 democratic candidate Justin DeWitt in the 2018 jungle primary
+* `USH18pD4`: votes for US House District 1 democratic candidate Lee Ann Dugas in the 2018 jungle primary
+* `USH18pD5`: votes for US House District 1 democratic candidate Jim Francis in the 2018 jungle primary
+* `USH18pD6`: votes for US House District 3 democratic candidate Mildred Methvin in the 2018 jungle primary
+* `USH18pD7`: votes for US House District 3 democratic candidate Larry Rader in the 2018 jungle primary
+* `USH18pD8`: votes for US House District 2 democratic candidate Cedric Richmond in the 2018 jungle primary
+* `USH18pD9`: votes for US House District 6 democratic candidate Andie Saizan in the 2018 jungle primary
+* `USH18pD10`: votes for US House District 1 democratic candidate Tammy Savoie in the 2018 jungle primary
+* `USH18pD11`: votes for US House District 3 democratic candidate Verone Thomas in the 2018 jungle primary
+* `USH18pD12`: votes for US House District 4 democratic candidate Ryan Trundle in the 2018 jungle primary
+* `USH18pI1`: votes for US House District 2 independent candidate Belden Batiste in the 2018 jungle primary
+* `USH18pI2`: votes for US House District 5 independent candidate Billy Burkette in the 2018 jungle primary
+* `USH18pI3`: votes for US House District 6 independent candidate Devin Lance Graham in the 2018 jungle primary
+* `USH18pU1`: votes for US House District 4 unaffiliated candidate Mark Halverson in the 2018 jungle primary
+* `USH18pI4`: votes for US House District 1 independent candidate Fredrick Jones in the 2018 jungle primary
+* `USH18pU2`: votes for US House District 2 unaffiliated candidate Shawndra Rodriguez in the 2018 jungle primary
+* `USH18pU3`: votes for US House District 2 unaffiliated candidate Jesse Schmidt in the 2018 jungle primary
+* `USH18pL1`: votes for US House District 3 libertarian candidate Aaron Andrus in the 2018 jungle primary
+* `USH18pL2`: votes for US House District 1 libertarian candidate Howard Kearney in the 2018 jungle primary
+* `USH18pL3`: votes for US House District 5 libertarian candidate Kyle Randol in the 2018 jungle primary
+* `USH18pR1`: votes for US House District 5 republican candidate Ralph Abraham in the 2018 jungle primary
+* `USH18pR2`: votes for US House District 6 republican candidate  Garret Graves in the 2018 jungle primary
+* `USH18pR3`: votes for US House District 3 republican candidate Josh Guillory in the 2018 jungle primary
+* `USH18pR4`: votes for US House District 3 republican candidate Clay Higgins in the 2018 jungle primary
+* `USH18pR5`: votes for US House District 4 republican candidate Mike Johnson in the 2018 jungle primary
+* `USH18pR6`: votes for US House District 1 republican candidate Steve Scalise  in the 2018 jungle primary
+* `TOTPOP`: Total population from 2010 Decennial Census
 * `NH_WHITE`: White, non-hispanic, population from 2010 Decennial Census
 * `NH_BLACK`: Black, non-hispanic, population from 2010 Decennial Census
 * `NH_AMIN`: American Indian and Alaska Native, non-hispanic, population from 2010 Decennial Census
