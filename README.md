@@ -2,7 +2,7 @@
 This shapefile was obtained from the Louisiana House of Representatives and processed by members of the Metric Geometry and Gerrymandering Group (MGGG).
 
 ## Sources
-The Maine precinct shapefile was obtained from the [Louisiana House of Representatives](https://house.louisiana.gov/h_redistricting2011/default_LouisianaPrecinctShapefiles.htm). This shapefile uses the 2018 precincts. Election data come from the [Louisiana Secretary of State](https://voterportal.sos.la.gov/Graphical). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile and enacted districts for Louisiana were downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
+The precinct shapefile was obtained from the [Louisiana House of Representatives](https://house.louisiana.gov/h_redistricting2011/default_LouisianaPrecinctShapefiles.htm). This shapefile uses the 2018 precincts. Election data come from the [Louisiana Secretary of State](https://voterportal.sos.la.gov/Graphical). 2010 Decennial Census demographic data were downloaded from the [Census API](https://api.census.gov/data/2010/dec/sf1). The 2010 census block shapefile and enacted districts for Louisiana were downloaded from the US Census Bureau’s [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html).
 
 
 ## Processing
