@@ -122,10 +122,10 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `USH18pR4`: votes for US House District 3 republican candidate Clay Higgins in the 2018 jungle primary
 * `USH18pR5`: votes for US House District 4 republican candidate Mike Johnson in the 2018 jungle primary
 * `USH18pR6`: votes for US House District 1 republican candidate Steve Scalise  in the 2018 jungle primary
-* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwellin the 2015 Attorney General election (primary, no general necessary)
-* `AG15R2`: votes for republican candidate Jeff Landryin the 2015 Attorney General election (primary, no general necessary)
-* `AG19D`: votes for democratic candidate Ike Jackson, Jrin the 2019 Attorney General election (primary, no general necessary)
-* `AG19R`: votes for republican candidate Jeff Landryin the 2019 Attorney General election (primary, no general necessary)
+* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwellin the 2015 Attorney General election (primary, no run-off necessary)
+* `AG15R2`: votes for republican candidate Jeff Landryin the 2015 Attorney General election (primary, no run-off necessary)
+* `AG19D`: votes for democratic candidate Ike Jackson, Jrin the 2019 Attorney General election (primary, no run-off necessary)
+* `AG19R`: votes for republican candidate Jeff Landryin the 2019 Attorney General election (primary, no run-off necessary)
 * `CAF19pD1`: votes for democratic candidate Marguerite Green in the 2019 Commissioner of Agriculture and Forestry jungle primary
 * `CAF19pD2`: votes for democratic candidate Charlie Greerin the 2019 Commissioner of Agriculture and Forestry jungle primary
 * `CAF19pD3`: votes for democratic candidate Peter Williamsin the 2019 Commissioner of Agriculture and Forestry jungle primary
@@ -152,12 +152,12 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `GOV19pR2`: votes for republican candidate Patrick Live Wire Landryin the 2019 Gubernatorial jungle primary
 * `GOV19pR3`: votes for republican candidate Eddie Risponein the 2019 Gubernatorial jungle primary
 * `GOV19R`: votes for republican candidate Eddie Risponein the 2019 Gubernatorial general election
-* `LG19D`: votes for democratic candidate Willie Jones in the 2019 Lieutenant governor election (primary, no general necessary)
-* `LG19R`: votes for republican candidate William Billy Nungesserin the 2019 Lieutenant governor election (primary, no general necessary)
-* `SOS15D`: votes for democratic candidate Chris Tyson in the 2015 Secretary of State election (primary, no general necessary)
-* `SOS15R`: votes for republican candidate Tom Schedlerin the 2015 Secretary of State election (primary, no general necessary)
-* `SOS19D`: votes for democratic candidate "Gwen" Collins-Greenupin the 2019 Secretary of State election (primary, no general necessary)
-* `SOS19R`: votes for republican candidate Kyle Ardoinin the 2019 Secretary of State election (primary, no general necessary)
+* `LG19D`: votes for democratic candidate Willie Jones in the 2019 Lieutenant governor election (primary, no run-off necessary)
+* `LG19R`: votes for republican candidate William Billy Nungesserin the 2019 Lieutenant governor election (primary, no run-off necessary)
+* `SOS15D`: votes for democratic candidate Chris Tyson in the 2015 Secretary of State election (primary, no run-off necessary)
+* `SOS15R`: votes for republican candidate Tom Schedlerin the 2015 Secretary of State election (primary, no run-off necessary)
+* `SOS19D`: votes for democratic candidate "Gwen" Collins-Greenupin the 2019 Secretary of State election (primary, no run-off necessary)
+* `SOS19R`: votes for republican candidate Kyle Ardoinin the 2019 Secretary of State election (primary, no run-off necessary)
 * `TRE15pR1`: votes for republican candidate John Kennedyin the 2015 Treasurer jungle primary
 * `TRE15pR2`: votes for republican candidate Jennifer Treadwayin the 2015 Treasurer jungle primary
 * `TRE17D`: votes for democratic candidate Derrick Edwardsin the 2017 Treasurer general election
@@ -168,9 +168,9 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `TRE17pR3`: votes for republican candidate Neil Riserin the 2017 Treasurer jungle primary
 * `TRE17pR4`: votes for republican candidate John Schroderin the 2017 Treasurer jungle primary
 * `TRE17R`: votes for republican candidate John Schroderin the 2017 Treasurer general election
-* `TRE19pD`: votes for democratic candidate Derrick Edwardsin the 2019 Treasurer jungle primary
-* `TRE19pR`: votes for republican candidate John M. Schroderin the 2019 Treasurer jungle primary
-* `TRE19pU`: votes for unaffiliated candidate Teresa Kenny in the 2019 Treasurer jungle primary
+* `TRE19pD`: votes for democratic candidate Derrick Edwardsin the 2019 Treasurer jungle primary (no run-off necessary)
+* `TRE19pR`: votes for republican candidate John M. Schroderin the 2019 Treasurer jungle primary (no run-off necessary)
+* `TRE19pU`: votes for unaffiliated candidate Teresa Kenny in the 2019 Treasurer jungle primary (no run-off necessary)
 * `TOTPOP`: Total population from 2010 Decennial Census
 * `NH_WHITE`: White, non-hispanic, population from 2010 Decennial Census
 * `NH_BLACK`: Black, non-hispanic, population from 2010 Decennial Census
