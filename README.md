@@ -122,10 +122,10 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `USH18pR4`: votes for US House District 3 republican candidate Clay Higgins in the 2018 jungle primary
 * `USH18pR5`: votes for US House District 4 republican candidate Mike Johnson in the 2018 jungle primary
 * `USH18pR6`: votes for US House District 1 republican candidate Steve Scalise  in the 2018 jungle primary
-* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwell in the 2015 Attorney General general election
-* `AG15R2`: votes for republican candidate Jeff Landry in the 2015 Attorney General jungle general election
-* `AG19D`: votes for democratic candidate Ike Jackson, Jr in the 2019 Attorney General jungle general election
-* `AG19R`: votes for republican candidate Jeff Landry in the 2019 Attorney General general election
+* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwell in the 2015 Attorney General election (primary, but no general necessary)
+* `AG15R2`: votes for republican candidate Jeff Landry in the 2015 Attorney General election (primary, but no general necessary)
+* `AG19D`: votes for democratic candidate Ike Jackson, Jr in the 2019 Attorney General election (primary, but no general necessary)
+* `AG19R`: votes for republican candidate Jeff Landry in the 2019 Attorney General election (primary, but no general necessary)
 * `CAF19pD1`: votes for democratic candidate Marguerite Green in the 2019 Commissioner of Agriculture and Forestry jungle primary
 * `CAF19pD2`: votes for democratic candidate Charlie Greer in the 2019 Commissioner of Agriculture and Forestry jungle primary
 * `CAF19pD3`: votes for democratic candidate Peter Williams in the 2019 Commissioner of Agriculture and Forestry jungle primary
@@ -152,10 +152,10 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `GOV19pR2`: votes for republican candidate Patrick Live Wire Landry in the 2019 Gubernatorial jungle primary
 * `GOV19pR3`: votes for republican candidate Eddie Rispone in the 2019 Gubernatorial jungle primary
 * `GOV19R`: votes for republican candidate Eddie Rispone in the 2019 Gubernatorial general election
-* `LG19D`: votes for democratic candidate Willie Jones in the 2019 Lieutenant governor general election
-* `LG19R`: votes for republican candidate William Billy Nungesser in the 2019 Lieutenant governor general election
-* `SOS15D`: votes for democratic candidate Chris Tyson in the 2015 Secretary of State general election
-* `SOS15R`: votes for republican candidate Tom Schedler in the 2015 Secretary of State general election
+* `LG19D`: votes for democratic candidate Willie Jones in the 2019 Lieutenant governor election (primary, but no general necessary)
+* `LG19R`: votes for republican candidate William Billy Nungesser in the 2019 Lieutenant governor election (primary, but no general necessary)
+* `SOS15D`: votes for democratic candidate Chris Tyson in the 2015 Secretary of State election (primary, but no general necessary)
+* `SOS15R`: votes for republican candidate Tom Schedler in the 2015 Secretary of State election (primary, but no general necessary)
 * `SOS19D`: votes for democratic candidate "Gwen" Collins-Greenup in the 2019 Secretary of State general election
 * `SOS19R`: votes for republican candidate Kyle Ardoin in the 2019 Secretary of State general election
 * `TRE15pR1`: votes for republican candidate John Kennedy in the 2015 Treasurer jungle primary
