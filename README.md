@@ -122,6 +122,55 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `USH18pR4`: votes for US House District 3 republican candidate Clay Higgins in the 2018 jungle primary
 * `USH18pR5`: votes for US House District 4 republican candidate Mike Johnson in the 2018 jungle primary
 * `USH18pR6`: votes for US House District 1 republican candidate Steve Scalise  in the 2018 jungle primary
+* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwellin the 2015 Attorney General election (primary, no general necessary)
+* `AG15R2`: votes for republican candidate Jeff Landryin the 2015 Attorney General election (primary, no general necessary)
+* `AG19D`: votes for democratic candidate Ike Jackson, Jrin the 2019 Attorney General election (primary, no general necessary)
+* `AG19R`: votes for republican candidate Jeff Landryin the 2019 Attorney General election (primary, no general necessary)
+* `CAF19pD1`: votes for democratic candidate Marguerite Green in the 2019 Commissioner of Agriculture and Forestry jungle primary
+* `CAF19pD2`: votes for democratic candidate Charlie Greerin the 2019 Commissioner of Agriculture and Forestry jungle primary
+* `CAF19pD3`: votes for democratic candidate Peter Williamsin the 2019 Commissioner of Agriculture and Forestry jungle primary
+* `CAF19pR1`: votes for republican candidate Michael G. “Mike” Strainin the 2019 Commissioner of Agriculture and Forestry jungle primary
+* `CAF19pR2`: votes for republican candidate Bradley Zaunbrecherin the 2019 Commissioner of Agriculture and Forestry jungle primary
+* `CI19pR1`: votes for republican candidate James J. Jim Donelonin the 2019 Commissioner of Insurance jungle primary
+* `CI19pR2`: votes for republican candidate Tim Templein the 2019 Commissioner of Insurance jungle primary
+* `GOV15D`: votes for democratic candidate John Bel Edwardsin the 2015 Gubernatorial general election
+* `GOV15pD1`: votes for democratic candidate Cary Deaton in the 2015 Gubernatorial jungle primary
+* `GOV15pD2`: votes for democratic candidate John Bel Edwardsin the 2015 Gubernatorial jungle primary
+* `GOV15pD3`: votes for democratic candidate S L Simpson in the 2015 Gubernatorial jungle primary
+* `GOV15pR1`: votes for republican candidate Scott A. Angellein the 2015 Gubernatorial jungle primary
+* `GOV15pR2`: votes for republican candidate Jay Dardennein the 2015 Gubernatorial jungle primary
+* `GOV15pR3`: votes for republican candidate David Vitterin the 2015 Gubernatorial jungle primary
+* `GOV15pU1`: votes for unaffiliated candidate Beryl Billiot in the 2015 Gubernatorial jungle primary
+* `GOV15pU2`: votes for unaffiliated candidate Jeremy JW Odom in the 2015 Gubernatorial jungle primary
+* `GOV15pU3`: votes for unaffiliated candidate Eric Paul Orgeron in the 2015 Gubernatorial jungle primary
+* `GOV15R`: votes for republican candidate David Vitterin the 2015 Gubernatorial general election
+* `GOV19D`: votes for democratic candidate John Bel Edwardsin the 2019 Gubernatorial general election
+* `GOV19pI`: votes for independent candidate Gary Landrieuin the 2019 Gubernatorial jungle primary
+* `GOV19pD1`: votes for democratic candidate Oscar Omar Dantzler in the 2019 Gubernatorial jungle primary
+* `GOV19pD2`: votes for democratic candidate John Bel Edwardsin the 2019 Gubernatorial jungle primary
+* `GOV19pR1`: votes for republican candidate Ralph Abrahamin the 2019 Gubernatorial jungle primary
+* `GOV19pR2`: votes for republican candidate Patrick Live Wire Landryin the 2019 Gubernatorial jungle primary
+* `GOV19pR3`: votes for republican candidate Eddie Risponein the 2019 Gubernatorial jungle primary
+* `GOV19R`: votes for republican candidate Eddie Risponein the 2019 Gubernatorial general election
+* `LG19D`: votes for democratic candidate Willie Jones in the 2019 Lieutenant governor election (primary, no general necessary)
+* `LG19R`: votes for republican candidate William Billy Nungesserin the 2019 Lieutenant governor election (primary, no general necessary)
+* `SOS15D`: votes for democratic candidate Chris Tyson in the 2015 Secretary of State election (primary, no general necessary)
+* `SOS15R`: votes for republican candidate Tom Schedlerin the 2015 Secretary of State election (primary, no general necessary)
+* `SOS19D`: votes for democratic candidate "Gwen" Collins-Greenupin the 2019 Secretary of State election (primary, no general necessary)
+* `SOS19R`: votes for republican candidate Kyle Ardoinin the 2019 Secretary of State election (primary, no general necessary)
+* `TRE15pR1`: votes for republican candidate John Kennedyin the 2015 Treasurer jungle primary
+* `TRE15pR2`: votes for republican candidate Jennifer Treadwayin the 2015 Treasurer jungle primary
+* `TRE17D`: votes for democratic candidate Derrick Edwardsin the 2017 Treasurer general election
+* `TRE17pD1`: votes for democratic candidate Derrick Edwardsin the 2015 Treasurer jungle primary
+* `TRE17pL1`: votes for libertarian candidate Joseph D. Littlein the 2017 Treasurer jungle primary
+* `TRE17pR1`: votes for republican candidate Angele Davisin the 2017 Treasurer jungle primary
+* `TRE17pR2`: votes for republican candidate Terry Hughesin the 2017 Treasurer jungle primary
+* `TRE17pR3`: votes for republican candidate Neil Riserin the 2017 Treasurer jungle primary
+* `TRE17pR4`: votes for republican candidate John Schroderin the 2017 Treasurer jungle primary
+* `TRE17R`: votes for republican candidate John Schroderin the 2017 Treasurer general election
+* `TRE19pD`: votes for democratic candidate Derrick Edwardsin the 2019 Treasurer jungle primary
+* `TRE19pR`: votes for republican candidate John M. Schroderin the 2019 Treasurer jungle primary
+* `TRE19pU`: votes for unaffiliated candidate Teresa Kenny in the 2019 Treasurer jungle primary
 * `TOTPOP`: Total population from 2010 Decennial Census
 * `NH_WHITE`: White, non-hispanic, population from 2010 Decennial Census
 * `NH_BLACK`: Black, non-hispanic, population from 2010 Decennial Census
