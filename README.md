@@ -234,7 +234,6 @@ Additional fields in .csv file only
 * `NHPICVAP12`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2012
 * `OTHERCVAP12`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2012
 * `2MORCVAP12`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2012
-
 * `CVAP13`: Total citizen voting age population from 5-year ACS for year ending in 2013
 * `HCVAP13`: Hispanic citizen voting age population from 5-year ACS for year ending in 2013
 * `WCVAP13`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2013
@@ -244,7 +243,6 @@ Additional fields in .csv file only
 * `NHPICVAP13`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2013
 * `OTHERCVAP13`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2013
 * `2MORCVAP13`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2013
-
 * `CVAP14`: Total citizen voting age population from 5-year ACS for year ending in 2014
 * `HCVAP14`: Hispanic citizen voting age population from 5-year ACS for year ending in 2014
 * `WCVAP14`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2014
@@ -254,7 +252,6 @@ Additional fields in .csv file only
 * `NHPICVAP14`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2014
 * `OTHERCVAP14`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2014
 * `2MORCVAP14`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2014
-
 * `CVAP15`: Total citizen voting age population from 5-year ACS for year ending in 2015
 * `HCVAP15`: Hispanic citizen voting age population from 5-year ACS for year ending in 2015
 * `WCVAP15`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2015
@@ -264,7 +261,6 @@ Additional fields in .csv file only
 * `NHPICVAP15`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2015
 * `OTHERCVAP15`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2015
 * `2MORCVAP15`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2015
-
 * `CVAP16`: Total citizen voting age population from 5-year ACS for year ending in 2016
 * `HCVAP16`: Hispanic citizen voting age population from 5-year ACS for year ending in 2016
 * `WCVAP16`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2016
@@ -274,7 +270,6 @@ Additional fields in .csv file only
 * `NHPICVAP16`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2016
 * `OTHERCVAP16`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2016
 * `2MORCVAP16`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2016
-
 * `CVAP17`: Total citizen voting age population from 5-year ACS for year ending in 2017
 * `HCVAP17`: Hispanic citizen voting age population from 5-year ACS for year ending in 2017
 * `WCVAP17`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2017
@@ -284,7 +279,6 @@ Additional fields in .csv file only
 * `NHPICVAP17`: Native Hawaiian and Pacific Islander, non-hispanic, voting age population from 5-year ACS for year ending in 2017
 * `OTHERCVAP17`: Other race, non-hispanic, voting age population from 5-year ACS for year ending in 2017
 * `2MORCVAP17`: Two or more races, non-hispanic, voting age population from 5-year ACS for year ending in 2017
-
 * `CVAP18`: Total citizen voting age population from 5-year ACS for year ending in 2018
 * `HCVAP18`: Hispanic citizen voting age population from 5-year ACS for year ending in 2018
 * `WCVAP18`: White, non-hispanic, citizen voting age population from 5-year ACS for year ending in 2018
