@@ -6,7 +6,7 @@ The precinct shapefile was obtained from the [Louisiana House of Representatives
 
 
 ## Processing
-Some merging of precincts in the tabular election data and precinct shapefile were necessary to join election results for multiple years onto 2018 precinct boundaries. Data from early and absentee votes reported at the state level were disaggregated by voting age population. Because of data reporting and processing, a few precincts cross county boundaries. Demographic data were aggregated from the block level using MGGG’s proration software. Congressional and state legislative district IDs were also assigned to precincts using this package.
+Some merging of precincts in the tabular election data and precinct shapefile were necessary to join election results for multiple years onto 2018 precinct boundaries. Data from early and absentee votes reported at the parish level were disaggregated by voting age population. Demographic data were aggregated from the block level using MGGG’s proration software. Congressional and state legislative district IDs were also assigned to precincts using this package.
 
 
 ## Metadata
