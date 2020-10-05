@@ -122,8 +122,8 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `USH18pR4`: votes for US House District 3 republican candidate Clay Higgins in the 2018 jungle primary
 * `USH18pR5`: votes for US House District 4 republican candidate Mike Johnson in the 2018 jungle primary
 * `USH18pR6`: votes for US House District 1 republican candidate Steve Scalise  in the 2018 jungle primary
-* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwell in the 2015 Attorney General election (primary, but no general necessary)
-* `AG15R2`: votes for republican candidate Jeff Landry in the 2015 Attorney General election (primary, but no general necessary)
+* `AG15R1`: votes for republican candidate James D. "Buddy" Caldwell in the 2015 Attorney General general election
+* `AG15R2`: votes for republican candidate Jeff Landry in the 2015 Attorney General general election
 * `AG19D`: votes for democratic candidate Ike Jackson, Jr in the 2019 Attorney General election (primary, but no general necessary)
 * `AG19R`: votes for republican candidate Jeff Landry in the 2019 Attorney General election (primary, but no general necessary)
 * `CAF19pD1`: votes for democratic candidate Marguerite Green in the 2019 Commissioner of Agriculture and Forestry jungle primary
