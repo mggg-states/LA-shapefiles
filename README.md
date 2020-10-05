@@ -19,6 +19,30 @@ Some merging of precincts in the tabular election data and precinct shapefile we
 * `CODE`: Precinct code
 * `PRES16D`: votes for 2016 US President democratic candidate in the 2016 general election
 * `PRES16R`: votes for 2016 US President republican candidate in the 2016 general election
+* `PRES16pD1 `: votes for candidate Steve Burke in the 2016 democratic presidential primary election
+* `PRES16pD2 `: votes for candidate Hillary Clinton in the 2016 democratic presidential primary election
+* `PRES16pD3 `: votes for candidate Roque "Rocky" De La Fuente in the 2016 democratic presidential primary election
+* `PRES16pD4 `: votes for candidate Henry Hewes in the 2016 democratic presidential primary election
+* `PRES16pD5 `: votes for candidate Keith Judd in the 2016 democratic presidential primary election
+* `PRES16pD6 `: votes for candidate Martin J. O'Malley in the 2016 democratic presidential primary election
+* `PRES16pD7 `: votes for candidate "Bernie" Sanders in the 2016 democratic presidential primary election
+* `PRES16pD8 `: votes for candidate Michael A. Steinberg in the 2016 democratic presidential primary election
+* `PRES16pD9 `: votes for candidate Willie L. Wilson in the 2016 democratic presidential primary election
+* `PRES16pD10 `: votes for candidate John Wolfe in the 2016 democratic presidential primary election
+* `PRES16pR1`: votes for candidate “Jeb” Bush in the 2016 republican presidential primary election
+* `PRES16pR2 `: votes for candidate “Ben” Carson in the 2016 republican presidential primary election
+* `PRES16pR3 `: votes for candidate "Chris" Christie in the 2016 republican presidential primary election
+* `PRES16pR4 `: votes for candidate Timothy "Tim" Cook in the 2016 republican presidential primary election
+* `PRES16pR5 `: votes for candidate "Ted" Cruz in the 2016 republican presidential primary election
+* `PRES16pR6 `: votes for candidate "Carly" Fiorina in the 2016 republican presidential primary election
+* `PRES16pR7 `: votes for candidate Lindsey Graham in the 2016 republican presidential primary election
+* `PRES16pR8 `: votes for candidate "Mike" Huckabee in the 2016 republican presidential primary election
+* `PRES16pR9 `: votes for candidate John R. Kasich in the 2016 republican presidential primary election
+* `PRES16pR10 `: votes for candidate Peter Messina in the 2016 republican presidential primary election
+* `PRES16pR11 `: votes for candidate “Rand” Paul in the 2016 republican presidential primary election
+* `PRES16pR12 `: votes for candidate Marco Rubio in the 2016 republican presidential primary election
+* `PRES16pR13 `: votes for candidate “Rick” Santorum in the 2016 republican presidential primary election
+* `PRES16pR14 `: votes for candidate Donald J. Trump in the 2016 republican presidential primary election
 * `SEN16pD1`: votes for democratic candidate Foster Campbell in 2016 US Senate jungle primary
 * `SEN16pD2`: votes for democratic candidate Derrick Edwards in 2016 US Senate jungle primary
 * `SEN16pD3`: votes for democratic candidate Caroline Fayard in 2016 US Senate jungle primary
